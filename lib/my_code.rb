@@ -9,5 +9,5 @@ def map (array)
 end
 
 
-def reduce(array,starting_point)
-end 
+def reduce(array)
+end
