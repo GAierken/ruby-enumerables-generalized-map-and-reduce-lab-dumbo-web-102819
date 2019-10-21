@@ -20,5 +20,6 @@ def reduce(array, sv=nil)
 
    while counter<array.length do
      yield(sum, array[counter])
+     counter+=1
    end
 end
