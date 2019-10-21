@@ -9,6 +9,6 @@ def map (array)
 end
 
 
-def reduce(array)
+def reduce(array, sv=nil)
 
 end
