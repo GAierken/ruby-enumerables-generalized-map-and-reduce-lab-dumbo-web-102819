@@ -1,9 +1,9 @@
 def map (array)
   new_array=[]
   counter=0
-  while 
+  while
 
   counter+=1
-  end 
+  end
 
 end
