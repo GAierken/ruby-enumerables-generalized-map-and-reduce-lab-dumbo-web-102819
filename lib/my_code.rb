@@ -1,3 +1,3 @@
-def my_own_map (array)
+def map (array)
 
 end
