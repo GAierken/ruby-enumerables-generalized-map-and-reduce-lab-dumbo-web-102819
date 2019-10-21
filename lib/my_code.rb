@@ -11,6 +11,6 @@ end
 
 def reduce(array, sv=nil)
    if sv
-     
+     num1 = sv 
 
 end
