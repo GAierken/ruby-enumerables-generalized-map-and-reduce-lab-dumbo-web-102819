@@ -1,7 +1,7 @@
 def map (array)
   new_array=[]
   counter=0
-  while
+  while counter < array.length
 
   counter+=1
   end
