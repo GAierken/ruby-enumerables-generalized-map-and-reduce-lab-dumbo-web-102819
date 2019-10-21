@@ -1,4 +1,4 @@
 def map (array)
-  new=[]
+  new_array=[]
 
 end
